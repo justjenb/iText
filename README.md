@@ -17,7 +17,7 @@ Finally, deploying the full-stack application to Heroku will introduce me to the
   8. [Questions](#questions)
 
 ## USAGE
-#### Go to my website<br/><br/>[]()
+#### Go to my website<br/><br/>[iText](https://itext-06f3f9980f2c.herokuapp.com/)
 #### Use the text editor in the browser, or download as an offline app. 
 <br/><br/>![Install](./public/images/image1.png)
 <br/><br/>![Use](./public/images/image2.png)
