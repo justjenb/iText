@@ -19,8 +19,9 @@ Finally, deploying the full-stack application to Heroku will introduce me to the
 ## USAGE
 #### Go to my website<br/><br/>[iText](https://itext-06f3f9980f2c.herokuapp.com/)
 #### Use the text editor in the browser, or download as an offline app. 
-<br/><br/>![Install](./public/images/image1.png)
-<br/><br/>![Use](./public/images/image2.png)
+<br/><br/>![Heroku](./client/src/images/image1.png)
+<br/><br/>![Install](./client/src/images/image2.png)
+<br/><br/>![Use](./client/src/images/image3.png)
 
 ## CONTRIBUTING
 #### If you are interested in contributing to this project, please follow these steps:
@@ -41,6 +42,7 @@ Finally, deploying the full-stack application to Heroku will introduce me to the
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-323330?style=for-the-badge&logoColor=blue)&nbsp;
 ![IndexDb](https://img.shields.io/badge/IndexDB-2391207?style=for-the-badge&logo=indexdb.js)&nbsp;
+![Heroku](https://img.shields.io/badge/%E2%86%91_Deploy_to-Heroku-7056bf.svg)&nbsp;
 
 ## LICENSE
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)<br/>
