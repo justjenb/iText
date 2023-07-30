@@ -17,8 +17,10 @@ Finally, deploying the full-stack application to Heroku will introduce me to the
   8. [Questions](#questions)
 
 ## USAGE
-#### Go to my website<br/><br/>[Keyboard Confessions](https://keyboard-confessions-f03f9d1d59cd.herokuapp.com/)
-#### Create an account or log in to be able to create posts and add comments to posts. You can view posts and comments without an account.<br/><br/>![Log In](./public/images/keyboard3.png)
+#### Go to my website<br/><br/>[]()
+#### Use the text editor in the browser, or download as an offline app. 
+<br/><br/>![Install](./public/images/image1.png)
+<br/><br/>![Use](./public/images/image2.png)
 
 ## CONTRIBUTING
 #### If you are interested in contributing to this project, please follow these steps:
@@ -36,10 +38,9 @@ Finally, deploying the full-stack application to Heroku will introduce me to the
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![Sequelize Badge](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-323330?style=for-the-badge&logoColor=blue)&nbsp;
-![Bcrypt Badge](https://img.shields.io/badge/Bcrypt-2391207?style=for-the-badge&logo=bcrypt.js)&nbsp;
+![IndexDb](https://img.shields.io/badge/IndexDB-2391207?style=for-the-badge&logo=indexdb.js)&nbsp;
 
 ## LICENSE
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)<br/>
